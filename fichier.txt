@@ -1,0 +1,8 @@
+Les paramètres (nom de fichier + taille max des groupes) ont été entrés
+le nom du fichier est promo.txt et le taille maximale d'un groupe est de 4 élèves 
+le fichier a été ouvert, et stockées sous forme de liste
+ce fichier contient les noms de 17 élèves
+on détermine le nombre de groupe total et le nombre de groupes pleins
+Répartition aléatoire des groupes effectuéeFormalisation en JSON effectuée
+Export en JSON => fichier.json effectué
+Export en TXT => listetriée.txt effectué
